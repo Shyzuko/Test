@@ -1,0 +1,19 @@
+name: GameMode
+
+author: Shyzuko
+
+main: fr.shyzuko.GameModeManager
+
+version: 1.0
+
+commands:
+  gm:
+    aliases: gamemode
+  admin:
+    aliases: ad
+  feed:
+    description: permet d'avoir de la bouf
+  heal:
+    description: permet d'avoir de la vie
+  hub:
+    description: permet de venir au hub

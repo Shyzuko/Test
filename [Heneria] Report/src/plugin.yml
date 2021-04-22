@@ -1,0 +1,9 @@
+name: JoinQuit
+author: Shyzuko
+version: 1.0
+main: fr.shyzuko.ReportManager
+commands:
+  tuto:
+    description: permet de savoir plus sur le serveur
+  freeze:
+    description: permet de geler un personne
